@@ -13,13 +13,15 @@
 
 .imageWrapper {
   position: relative;
+  height: 80vh;
 }
 
 .image {
   border-radius: 20px;
   object-fit: cover;
+  height: 80vh;
   border: 1px solid var(--border);
-  height: 100vh;
+  
 }
 
 .experience {
@@ -78,7 +80,7 @@
     grid-template-columns: 1fr;
     gap: 60px;
   }
-
+  
   .imageWrapper {
     max-width: 400px;
     margin: 0 auto;
