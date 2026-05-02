@@ -17,8 +17,9 @@
 
 .image {
   border-radius: 20px;
-  /* object-fit: cover; */
+  object-fit: cover;
   border: 1px solid var(--border);
+  height: 60vh;
 }
 
 .experience {
