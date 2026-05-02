@@ -21,7 +21,7 @@ const projects = [
     description: "An AI-powered assistant for helping students with their studies.",
     image: "/project1.png",
     tags: ["ReactJS", "ExpressJS", "HTML","MongoDB", "Ollama", "TailwindCSS"],
-    link: "#"
+    link: "https://ai-study-companion-tq0z.onrender.com/"
   }
 ];
 
