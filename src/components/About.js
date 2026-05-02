@@ -7,7 +7,7 @@ export default function About() {
       <div className={styles.container}>
         <div className={styles.imageWrapper}>
           <Image 
-            src="/profile2.JPG" 
+            src="/mine_profile.PNG" 
             alt="Profile" 
             width={400} 
             height={400} 
